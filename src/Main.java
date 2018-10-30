@@ -31,7 +31,7 @@ public class Main {
                 }
             }
         }
-    }
+    }//special for git
 
     public static boolean isSimple(int n) {
         for (int i = 2; i <= Math.sqrt(n); i++)
