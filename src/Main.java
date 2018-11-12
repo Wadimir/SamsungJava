@@ -11,7 +11,7 @@ public class Main {
         selectionSort(array2);
         System.out.println("Сортування Вибором:" + Arrays.toString(array2));
         insertionSort(array3);
-        System.out.println("Сортування З виключенням:" + Arrays.toString(array3));
+        System.out.println("Сортування З включенням:" + Arrays.toString(array3));
     }
 
     private static void bubbleSort(int[] arra) {
@@ -41,15 +41,15 @@ public class Main {
     }
 
     private static void insertionSort(int[] arr) {
-        for (int k = 1; k < arr.length; k++) {
+        for (int k = arr.length-1; k >= 0; k--) {
             int newElement = arr[k];
-            int location = k - 1;
+            int location = k + 1;
 
-            while (location >= 0 && arr[location] < newElement) {
-                arr[location + 1] = arr[location];
-                location--;
+            while (location < arr.length && arr[location] > newElement) {
+                arr[location - 1] = arr[location];
+                location++;
             }
-            arr[location + 1] = newElement;
+            arr[location - 1] = newElement;
         }
     }
 }
