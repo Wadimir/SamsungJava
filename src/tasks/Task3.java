@@ -1,8 +1,8 @@
 package tasks;
 
-public class ThirdTask {
+public class Task3 {
 
-    public ThirdTask() {
+    public Task3() {
         System.out.println("=============Third Task===========");
 
         int result = math(1346, 36);

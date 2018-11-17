@@ -2,9 +2,9 @@ package tasks;
 
 import java.util.Scanner;
 
-public class FifthTask {
+public class Task5 {
 
-    public FifthTask() {
+    public Task5() {
         System.out.println("=============Fifth Task===========");
 
         int x, fromA, toB, fromSecondA, toSecondB;

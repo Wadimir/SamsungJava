@@ -1,8 +1,8 @@
 package tasks;
 
-public class SecondTask {
+public class Task2 {
 
-    public SecondTask() {
+    public Task2() {
         System.out.println("=============Second Task===========");
 
         secondTask();

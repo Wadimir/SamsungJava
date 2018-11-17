@@ -1,17 +1,14 @@
 import tasks.*;
+import java.lang.reflect.Constructor;
 
 class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         System.out.println("=============Start Test===========");
 
-        new FirstTask();
-        new SecondTask();
-        new ThirdTask();
-        new FourthTask();
-        new FifthTask();
-        new SixthTask();
-        new SeventhTask();
+        for (int i = 1; i <= 7; i++) {
+            Class.forName("tasks.Task" + i).newInstance();
+        }
 
         System.out.println("=============End Test===========");
     }

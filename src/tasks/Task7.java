@@ -1,9 +1,9 @@
 package tasks;
 
-public class SeventhTask {
+public class Task7 {
 
     //функція - конструктор
-    public SeventhTask() {
+    public Task7() {
         System.out.println("=============Seventh Task===========");
 
         int[] array = {1, 8, 1, 67, 52, 45, 257, 3571, 246, 23, 0, 919, 0};

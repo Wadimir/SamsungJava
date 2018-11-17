@@ -1,8 +1,8 @@
 package tasks;
 
-public class FourthTask {
+public class Task4 {
 
-    public FourthTask() {
+    public Task4() {
         System.out.println("=============Fourth Task===========");
 
         boolean result = isDivisibleThree(9);

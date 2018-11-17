@@ -2,9 +2,9 @@ package tasks;
 
 import java.util.Arrays;
 
-public class SixthTask {
+public class Task6 {
 
-    public SixthTask() {
+    public Task6() {
         System.out.println("=============Sixth Task===========");
 
         int[] array = {10, 50, 18, 193, 591, 561};
