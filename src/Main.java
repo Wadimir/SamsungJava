@@ -1,16 +1,13 @@
-import tasks.*;
-import java.lang.reflect.Constructor;
+import Figur.Circle;
+import Figur.Parallelogram;
+import Figur.Pentagon;
+import Figur.Trapeze;
 
 class Main {
-
-    public static void main(String[] args) throws Exception {
-        System.out.println("=============Start Test===========");
-
-        for (int i = 1; i <= 7; i++) {
-            Class.forName("tasks.Task" + i).newInstance();
-        }
-
-        System.out.println("=============End Test===========");
+    public static void main(String[] args) {
+        new Circle();
+        new Trapeze();
+        new Parallelogram();
+        new Pentagon();
     }
-
 }
