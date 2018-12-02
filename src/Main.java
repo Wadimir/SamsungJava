@@ -1,13 +1,12 @@
-import Figur.Circle;
-import Figur.Parallelogram;
-import Figur.Pentagon;
-import Figur.Trapeze;
+import classes.NormalClass;
 
 class Main {
     public static void main(String[] args) {
-        new Circle();
-        new Trapeze();
-        new Parallelogram();
-        new Pentagon();
+        NormalClass nc = new NormalClass();
+        int firstValue = nc.getValue(2);
+        int secondValue = nc.getValue(2, 5);
+
+        System.out.println(firstValue);
+        System.out.println(secondValue);
     }
 }
