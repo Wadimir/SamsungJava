@@ -35,6 +35,6 @@ public class Parallelogram extends Figure {
 
     @Override
     public int hashCode() {
-        return Objects.hash(storona);
+        return Objects.hash(storona, visota);
     }
 }

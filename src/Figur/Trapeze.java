@@ -31,11 +31,13 @@ public class Trapeze extends Figure {
         if (this == o) return true;
         if (!(o instanceof Trapeze)) return false;
         Trapeze trapeze = (Trapeze) o;
-        return Double.compare(trapeze.visota, visota) == 0;
+        return Double.compare(trapeze.osnova1, osnova1) == 0 &&
+                Double.compare(trapeze.osnova2, osnova2) == 0 &&
+                Double.compare(trapeze.visota, visota) == 0;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(visota);
+        return Objects.hash(osnova1, osnova2, visota);
     }
 }

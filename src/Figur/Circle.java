@@ -34,6 +34,4 @@ public class Circle extends Figure {
     public int hashCode() {
         return Objects.hash(radius);
     }
-
-
 }

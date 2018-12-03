@@ -29,11 +29,12 @@ public class Pentagon extends Figure {
         if (this == o) return true;
         if (!(o instanceof Pentagon)) return false;
         Pentagon pentagon = (Pentagon) o;
-        return Double.compare(pentagon.radius, radius) == 0;
+        return Double.compare(pentagon.radius, radius) == 0 &&
+                Double.compare(pentagon.storona, storona) == 0;
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(radius);
+        return Objects.hash(radius, storona);
     }
 }
