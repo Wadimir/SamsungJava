@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80558b48-0db3-4fd4-817c-942844749879" name="Default Changelist" comment="">
+    <list default="true" id="c44db8e6-72ae-435a-a601-fcc26fa429d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figur/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figur/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figur/Parallelogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figur/Parallelogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figur/Pentagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figur/Pentagon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figur/Trapeze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figur/Trapeze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figur/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figur/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figur/Parallelogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figur/Pentagon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figur/Trapeze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,136 +24,115 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1100826591">
+    <session id="1794076779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="class" value="2" />
+          <entry key="java" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="dummy" value="10" />
+          <entry key="java" value="13049" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="13049" />
+          <entry key="PLAIN_TEXT" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-240800539">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
     <session id="695488123">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1141" />
+          <entry key="java" value="268" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1141" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="268" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="51">
+              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Figur/Figure.java">
+        <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/IListDeleteByFilter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtension.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Figur/Circle.java">
+        <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtensionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="186">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Figur/Parallelogram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-              <folding>
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#989#990#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Figur/Pentagon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-              <folding>
-                <element signature="e#920#921#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Figur/Trapeze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-              <folding>
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,9 +143,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>de</find>
+      <find>static</find>
+      <find>org.junit.Assert</find>
+      <find>removeN</find>
+      <find>deleteFromList</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -166,57 +165,101 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Figur/Figure.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Figur/Circle.java" />
-        <option value="$PROJECT_DIR$/src/Figur/Parallelogram.java" />
-        <option value="$PROJECT_DIR$/src/Figur/Pentagon.java" />
-        <option value="$PROJECT_DIR$/src/Figur/Trapeze.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/sorts/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/Student.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Box.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Squere.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Phone.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/school/Student.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Square.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Utils.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Person.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Human.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Client.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/Civil.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/RavnobedreniyTriangle.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/RavnoStotoniy.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/second/CivilTest.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Student.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Square.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Figure.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Human.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/Swimmable.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/vehicles/Car.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/vehicles/IColor.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/vehicles/BMW.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/Book.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/FirstItem.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/Item.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/MyI.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/IListDeleteFilter.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtencion.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtensionTest.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/IListDeleteByFilter.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/Main.java" />
+        <option value="$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtension.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-17" />
-    <option name="y" value="31" />
-    <option name="width" value="1380" />
-    <option name="height" value="980" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Figure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamsungJava" type="462c0819:PsiDirectoryNode" />
+              <item name="hmForStudents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmForStudents" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Figure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamsungJava" type="462c0819:PsiDirectoryNode" />
+              <item name="hmForStudents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hmForStudents" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Figure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamsungJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Figur" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543176720043" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545071397799" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.com.samsungitschool" />
+      <recent name="ua.com.samsungitschool.second" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yaroslav-Arhiv\samsung\2\src\ua\com\samsungitschool\sorts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,17 +273,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Figure" />
+  <component name="RunManager" selected="JUnit.ListExtensionTest">
+    <configuration name="ListExtensionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.samsungitschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.samsungitschool" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.samsungitschool.ListExtensionTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListExtensionTest.testBadFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.samsungitschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.samsungitschool" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.samsungitschool.ListExtensionTest" />
+      <option name="METHOD_NAME" value="testBadFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExtensionTest.testCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.samsungitschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.samsungitschool" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.samsungitschool.ListExtensionTest" />
+      <option name="METHOD_NAME" value="testCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExtensionTest.testRemoveNeighbors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.samsungitschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.samsungitschool" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.samsungitschool.ListExtensionTest" />
+      <option name="METHOD_NAME" value="testRemoveNeighbors" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExtensionTest.testRemoveRandomKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.com.samsungitschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.com.samsungitschool" />
+      <option name="MAIN_CLASS_NAME" value="ua.com.samsungitschool.ListExtensionTest" />
+      <option name="METHOD_NAME" value="testRemoveRandomKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ListExtensionTest" />
+      <item itemvalue="JUnit.ListExtensionTest.testCreated" />
+      <item itemvalue="JUnit.ListExtensionTest.testRemoveRandomKey" />
+      <item itemvalue="JUnit.ListExtensionTest.testRemoveNeighbors" />
+      <item itemvalue="JUnit.ListExtensionTest.testBadFilter" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ListExtensionTest" />
+        <item itemvalue="JUnit.ListExtensionTest.testBadFilter" />
+        <item itemvalue="JUnit.ListExtensionTest.testRemoveNeighbors" />
+        <item itemvalue="JUnit.ListExtensionTest.testRemoveRandomKey" />
+        <item itemvalue="JUnit.ListExtensionTest.testCreated" />
       </list>
     </recent_temporary>
   </component>
@@ -249,18 +374,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80558b48-0db3-4fd4-817c-942844749879" name="Default Changelist" comment="" />
-      <created>1543170777190</created>
+      <changelist id="c44db8e6-72ae-435a-a601-fcc26fa429d3" name="Default Changelist" comment="" />
+      <created>1541509610847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543170777190</updated>
+      <updated>1541509610847</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ListExtensionTest_testBadFilter - 2018.12.08 at 19h 46m 02s.xml">
+      <configuration name="ListExtensionTest.testBadFilter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.08 at 19h 49m 44s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.08 at 19h 50m 06s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.08 at 19h 50m 41s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.17 at 19h 38m 40s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.17 at 19h 51m 55s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.17 at 20h 21m 08s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.17 at 20h 23m 03s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.17 at 20h 25m 38s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListExtensionTest - 2018.12.17 at 20h 30m 00s.xml">
+      <configuration name="ListExtensionTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1036" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25737464" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12758112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -269,15 +426,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32705098" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32815966" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32705098" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,7 +445,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25737464" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25248072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +454,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -305,7 +462,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -320,141 +477,72 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Figur/Figure.java">
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/sorts/Bubble.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/util/concurrent/PriorityBlockingQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/InsertionSort.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/lang/System.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/school/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/B/SecondTask.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/second/CivilTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Human.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/Swimmable.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Triangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/vehicles/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/vehicles/BMW.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/vehicles/IColor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Square.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/second/Civil.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/figuri/Figure.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/RavnoStotoniyTriangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/FirstItem.java" />
+    <entry file="jar://D:/programs/JDK/jre/lib/jfxrt.jar!/javafx/collections/FXCollections.class" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/lang/Runnable.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/ArrayUtils.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/util/List.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/util/Collection.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/Book.java" />
+    <entry file="jar://D:/programs/JDK/jre/lib/jfxrt.jar!/javafx/util/Pair.class" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/MyI.java" />
+    <entry file="jar://D:/programs/JDK/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtensionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Figur/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Figur/Parallelogram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Figur/Pentagon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Figur/Trapeze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="e#1060#1061#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        <state relative-caret-position="186">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Figure</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/IListDeleteByFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/com/samsungitschool/ListExtension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
